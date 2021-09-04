@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1630390958 source:c:\users\bacigale\documents\bacis\evenements\invites.cpp
+	<iostream>
+
+1630390958 source:c:\users\bacigale\documents\bacis\evenements\organisateurs.cpp
+	<iostream>
+
+1630503610 source:c:\users\bacigale\documents\bacis\evenements\activites.cpp
+	<iostream>
+
+1630495398 source:c:\users\bacigale\documents\bacis\evenements\main.cpp
+	<iostream>
+	"Activites.cpp"
+	"Invites.cpp"
+	"Organisateurs.cpp"
+
+1630505109 c:\users\bacigale\documents\bacis\evenements\activites.cpp
+	<iostream>
+
+1630390958 c:\users\bacigale\documents\bacis\evenements\invites.cpp
+	<iostream>
+
+1630390958 c:\users\bacigale\documents\bacis\evenements\organisateurs.cpp
+	<iostream>
+
